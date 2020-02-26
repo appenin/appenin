@@ -5,8 +5,7 @@
 - [Bienvenue chez appenin](bienvenue.md)
 - [Nos bureaux](bureaux.md)
 - [Notre charte](charte.md)
-- [Nos rituels](rituels.md)
 
 ## Ressources
 
-- [Nos éléments de design](design.md)
+- [Nos éléments de design](design.md) (bientôt disponible)
