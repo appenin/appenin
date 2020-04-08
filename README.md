@@ -2,7 +2,7 @@
 
 ## Accueil
 
-- [Bienvenue chez appenin](bienvenue.md)
+- Bienvenue chez appenin
 - [Nos bureaux](bureaux.md)
 - [Notre charte](charte.md)
 
